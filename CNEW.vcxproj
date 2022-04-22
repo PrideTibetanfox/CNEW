@@ -139,6 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1.1ifelseExercise.cpp" />
+    <ClCompile Include="1.2ifelseExerice.cpp" />
+    <ClCompile Include="1.3ifelseExercise.cpp" />
+    <ClCompile Include="1.ifelseDemo.cpp" />
     <ClCompile Include="1exercise.cpp" />
     <ClCompile Include="1逻辑运算符练习.cpp" />
     <ClCompile Include="2assignedoperator赋值运算符.cpp" />

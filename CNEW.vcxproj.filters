@@ -36,5 +36,17 @@
     <ClCompile Include="1exercise.cpp">
       <Filter>源文件\chapter06</Filter>
     </ClCompile>
+    <ClCompile Include="1.ifelseDemo.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1ifelseExercise.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="1.2ifelseExerice.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="1.3ifelseExercise.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
