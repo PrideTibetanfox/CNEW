@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1exercise.cpp" />
     <ClCompile Include="1逻辑运算符练习.cpp" />
     <ClCompile Include="2assignedoperator赋值运算符.cpp" />
     <ClCompile Include="3multiOperator三元运算符.cpp" />
